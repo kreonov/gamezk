@@ -1,4 +1,4 @@
-<!-- # ⭕ Tic-Tac-Toe -->
+<!-- # ⭕ Tic-Tac-Toe --> (make sure that you use actual testing environment)
 
 [//]: # (<img alt="workshop/tictactoe" width="1412" src="../.resources/tictactoe.png">)
 
@@ -49,7 +49,7 @@ leo run <function_name>
 leo execute <function_name> <input_1> <input_2> ...
 ```
 
-## Playing the Game
+## Playing the Game (make sure that you use actual testing environment)
 
 ### 1. Create a new game board
 ```bash
